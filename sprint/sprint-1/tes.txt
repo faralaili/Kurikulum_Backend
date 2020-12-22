@@ -1,0 +1,8 @@
+﻿mkdir =untuk membuat folder
+cd =untuk mengganti folder/masuk kedalam folder
+ls =untuk mengetahui isi dalam folder
+touch=untuk membuat file
+code .= untuk membuka visual code
+php nama.file.php= untuk menampikan isi file
+clear= untuk menghapus semua syntax
+rm= untuk menghapus file

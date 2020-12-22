@@ -1,0 +1,8 @@
+<?php
+
+/* 2341560678459456 input
+0 sebagai pemisah
+2341560678459456 
+/*23456789345345 output
+
+$array
