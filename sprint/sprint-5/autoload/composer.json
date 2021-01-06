@@ -1,0 +1,17 @@
+{
+    "name": "pondokit/autoload",
+    "description": "rumus bangun ruang",
+    "authors": [
+        {
+            "name": "faralaili",
+            "email": "faralaili2004@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BangunDatar\\": "Bangun_Datar/"
+        }
+    }
+       
+}
