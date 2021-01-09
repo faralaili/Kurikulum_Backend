@@ -1,0 +1,14 @@
+{
+    "name": "pondokit/evaluasi-5",
+    "description": "rumus bangun datar",
+    "authors": [
+        {
+            "name": "faralaili",
+            "email": "faralaili2004@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^1.0",
+        "phpoffice/phpspreadsheet": "^1.16"
+    }
+}
